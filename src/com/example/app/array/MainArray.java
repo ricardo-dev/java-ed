@@ -31,5 +31,6 @@ public class MainArray {
 		for(Aluno a: vetor) {
 			System.out.println(a.toString());
 		}
+		
 	}
 }
